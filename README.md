@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Hi, I’m **Disha Rathod** – a passionate web developer, tech enthusiast, and problem solver.  
 I enjoy building clean, responsive websites and learning emerging technologies like Blockchain, Web3, and Smart Contracts.  
